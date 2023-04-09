@@ -1,0 +1,21 @@
+
+  label {
+    display: inline-block;
+    width: 70px;
+    margin-bottom: 10px;
+  }
+
+  select {
+    margin-left: 10px;
+  }
+  #convert-button{
+    margin-left: 390px;
+    border-radius: 3px;
+  }
+  #to {
+    background-color: white;
+    border: none;
+}
+.to-currency-label {
+  margin-left: 3px !important;
+}
