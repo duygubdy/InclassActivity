@@ -1,0 +1,15 @@
+body {
+    margin: 5%;
+  }
+  
+  label {
+    display: inline-block;
+    width: 110px;
+  }
+  
+  #about {
+    margin-bottom: -15px;
+  }
+  input[type="submit"] {
+    margin-left: 114px;
+  }
