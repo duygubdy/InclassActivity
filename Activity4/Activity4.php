@@ -20,7 +20,7 @@
       <select name="countries">
         <option value="none">(Please select a country)</option>
         <option value="Turkey">Turkey</option>
-        <option value="China">China</option>
+        <option value="China ">China</option>
         <option value="Canada">Canada</option>
       </select><br><br>
       <label>ZIP Code:</label>
@@ -36,7 +36,7 @@
       French<input type="checkbox" name="languages[]" value="French"><br><br>
       <label>About:</label>
       <textarea name="about" cols="30" rows="5"></textarea><br><br>
+      <input type="submit" value="Submit">
     </form>
-	<input type="submit" value="Submit">
   </body>
 </html>
