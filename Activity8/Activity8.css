@@ -1,0 +1,21 @@
+input:invalid:required {
+    border: 1px solid red;
+}
+form {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.ui-datepicker {
+    background-color: white !important;
+}
+.ui-datepicker-header {
+    background-color: black !important;
+    color: white !important;
+}
+.ui-datepicker-calendar td {
+    color: black !important;
+}
+.ui-datepicker-trigger {
+    background-color: gray;
+}
